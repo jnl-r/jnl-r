@@ -4,8 +4,8 @@
 <br><br>
 <img src="https://img.shields.io/badge/Project_Management-FF6FB5?style=for-the-badge&labelColor=FF6FB5" alt="Project Management" />
 <img src="https://img.shields.io/badge/Full--Stack_Development-A8E85C?style=for-the-badge&labelColor=A8E85C" alt="Full-Stack Development" />
-<img src="https://img.shields.io/badge/C%23_and_.NET-C9B8F5?style=for-the-badge&labelColor=C9B8F5" alt="C# and .NET" />
-<img src="https://img.shields.io/badge/ERP_Systems-F4E04D?style=for-the-badge&labelColor=F4E04D" alt="ERP Systems" />
+<img src="https://img.shields.io/badge/UI%2FUX_Design-C9B8F5?style=for-the-badge&labelColor=C9B8F5" alt="UI/UX Design" />
+<img src="https://img.shields.io/badge/Conversion_Design-F4E04D?style=for-the-badge&labelColor=F4E04D" alt="Conversion Design" />
 
 </div>
 

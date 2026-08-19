@@ -19,6 +19,7 @@ Most sites I come across are gorgeous and completely silent. I want to build the
 
 And when I take on a project, I care about the marketing as much as the code. Knowing who a site is for and how people actually find it changes what belongs on the page. Fashion and beauty are where I have the most fun with it.
 
+I’m pretty technical myself. I pick up logic quickly, especially when I’m well-rested and healthy :)
 <br>
 
 ## ⚡ Projects

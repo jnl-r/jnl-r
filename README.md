@@ -58,8 +58,8 @@ And when I take on a project, I care about the marketing as much as the code. Kn
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jnl-r&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF6FB5&text_color=C9C9C9&icon_color=A8E85C&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnl-r&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=A8E85C&text_color=C9C9C9&langs_count=8" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jnl-r&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF6FB5&text_color=C9C9C9&icon_color=A8E85C&include_all_commits=true&v=2" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnl-r&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=A8E85C&text_color=C9C9C9&langs_count=8&v=2" alt="Top languages" />
 
 <br><br>
 
@@ -85,6 +85,12 @@ And when I take on a project, I care about the marketing as much as the code. Kn
 <br><br>
 
 <sub>Cebu, Philippines · Computer Science, University of the Philippines</sub>
+<br><br>
+
+<img src="https://img.shields.io/badge/Project_Management-FF6FB5?style=for-the-badge&labelColor=FF6FB5" alt="Project Management" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-A8E85C?style=for-the-badge&labelColor=A8E85C" alt="Full-Stack Development" />
+<img src="https://img.shields.io/badge/C%23_and_.NET-C9B8F5?style=for-the-badge&labelColor=C9B8F5" alt="C# and .NET" />
+<img src="https://img.shields.io/badge/ERP_Systems-F4E04D?style=for-the-badge&labelColor=F4E04D" alt="ERP Systems" />
 
 </div>
 

@@ -13,7 +13,7 @@
 
 I grew up around my parents' business, so I learned early how much work can go into something that customers still never end up seeing.
 
-A video I posted on TikTok once brought in over 100K in sales in a single month. It wasn't complicated. It just reached the right people, and after that I couldn't stop noticing how many businesses are doing everything right and still getting ignored. Most sites I come across are gorgeous and completely silent. I want to build the ones that actually earn something for the person who owns them.
+A video I posted on TikTok once brought in over 100K in sales in a single month for a tech product. It wasn't complicated. It just reached the right people, and after that I couldn't stop noticing how many businesses are doing everything right and still getting ignored. Most sites I come across are gorgeous but completely silent. I want to build the ones that actually earn something for the person who owns them.
 
 And when I take on a project, I care about the business and its marketing, as much as the code. Knowing who a site is for and how people actually find it changes what belongs on the page. Fashion and beauty are where I have the most fun with it.
 

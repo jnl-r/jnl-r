@@ -36,9 +36,8 @@
     <!-- ── left · who and what ─────────────────────── -->
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.05s" fill="freeze"/>
-      <rect x="48" y="30" width="262" height="30" rx="15" fill="#141414" stroke="#2A2A2A"/>
-      <circle cx="68" cy="45" r="4" fill="#A8E85C"/>
-      <text x="81" y="50" font-size="12.5" font-weight="600" letter-spacing="0.4" fill="#C9C9C9">Janelle Ranario · CS @ UP Cebu</text>
+      <rect x="48" y="30" width="240" height="30" rx="15" fill="#141414" stroke="#2A2A2A"/>
+      <text x="68" y="50" font-size="12.5" font-weight="600" letter-spacing="0.4" fill="#C9C9C9">Janelle Ranario · CS @ UP Cebu</text>
     </g>
 
     <g font-weight="700" letter-spacing="-1.4">
@@ -73,9 +72,9 @@
 
       <rect x="636" y="36" width="316" height="158" rx="18" fill="url(#pinkCard)"/>
 
-      <text x="668" y="76" font-size="10.5" font-weight="700" letter-spacing="2.2" fill="#0A0A0A" opacity="0.55">SALES DRIVEN</text>
+      <text x="668" y="76" font-size="10.5" font-weight="700" letter-spacing="2.2" fill="#0A0A0A" opacity="0.55">ORGANIC REACH</text>
       <text x="666" y="134" font-size="50" font-weight="700" letter-spacing="-2" fill="#0A0A0A">100K+</text>
-      <text x="668" y="162" font-size="12.5" font-weight="600" fill="#0A0A0A" opacity="0.78">from one TikTok video</text>
+      <text x="668" y="162" font-size="12.5" font-weight="600" fill="#0A0A0A" opacity="0.78">converted to sales</text>
 
       <g transform="translate(952,30)">
         <g>

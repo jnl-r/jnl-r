@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://img.shields.io/badge/Project_Management-FF6FB5?style=for-the-badge&labelColor=FF6FB5" alt="Project Management" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-A8E85C?style=for-the-badge&labelColor=A8E85C" alt="Full-Stack Development" />
+<img src="https://img.shields.io/badge/C%23_and_.NET-C9B8F5?style=for-the-badge&labelColor=C9B8F5" alt="C# and .NET" />
+<img src="https://img.shields.io/badge/ERP_Systems-F4E04D?style=for-the-badge&labelColor=F4E04D" alt="ERP Systems" />
 <img src="banner.svg" alt="Janelle Ranario. Pretty software is easy. Effective software is harder. 100K+ in sales driven. Open for work." width="100%" />
 <br><br>
 <a href="mailto:jrranario1@up.edu.ph"><img src="https://img.shields.io/badge/Start_a_project-FF6FB5?style=for-the-badge&labelColor=FF6FB5&logoColor=0A0A0A" alt="Start a project" /></a>
@@ -6,10 +10,7 @@
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-141414?style=for-the-badge&labelColor=141414" alt="Projects" /></a>
 <a href="#-stack"><img src="https://img.shields.io/badge/Stack-141414?style=for-the-badge&labelColor=141414" alt="Stack" /></a>
 <a href="#-work-with-me"><img src="https://img.shields.io/badge/Contact-141414?style=for-the-badge&labelColor=141414" alt="Contact" /></a>
-<img src="https://img.shields.io/badge/Project_Management-FF6FB5?style=for-the-badge&labelColor=FF6FB5" alt="Project Management" />
-<img src="https://img.shields.io/badge/Full--Stack_Development-A8E85C?style=for-the-badge&labelColor=A8E85C" alt="Full-Stack Development" />
-<img src="https://img.shields.io/badge/C%23_and_.NET-C9B8F5?style=for-the-badge&labelColor=C9B8F5" alt="C# and .NET" />
-<img src="https://img.shields.io/badge/ERP_Systems-F4E04D?style=for-the-badge&labelColor=F4E04D" alt="ERP Systems" />
+
 </div>
 
 <br>

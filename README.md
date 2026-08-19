@@ -60,13 +60,13 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <div align="center">
 
-$\textsf{\large{\color{#FF6FB5}Consistency}}$
+<h3>Consistency</h3>
 
 <img src="https://streak-stats.demolab.com?user=jnl-r&hide_border=true&background=0A0A0A&stroke=1E1E1E&ring=FF6FB5&fire=F4E04D&currStreakLabel=A8E85C&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Contribution streak" width="60%" />
 
-$\textsf{\large{\color{#A8E85C}Git Activity}}$
+<h3>Git Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnl-r&bg_color=0A0A0A&color=FFFFFF&title_color=FF6FB5&line=A8E85C&point=FF6FB5&area=true&area_color=FF6FB5&hide_border=true&custom_title=Contributions" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnl-r&bg_color=0A0A0A&color=FFFFFF&line=A8E85C&point=FF6FB5&area=true&area_color=FF6FB5&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 

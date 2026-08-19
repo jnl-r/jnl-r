@@ -1,24 +1,13 @@
 <div align="center">
-
 <img src="banner.svg" alt="Software with taste, built for women first" width="100%" />
-
 <br><br>
-
+<a href="mailto:jrranario1@up.edu.ph"><img src="https://img.shields.io/badge/Start_a_project-FF6FB5?style=for-the-badge&labelColor=FF6FB5&logoColor=0A0A0A" alt="Start a project" /></a>
+<a href="https://github.com/jnl-r?tab=repositories"><img src="https://img.shields.io/badge/▸_See_the_work-0A0A0A?style=for-the-badge&labelColor=0A0A0A" alt="See the work" /></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-141414?style=for-the-badge&labelColor=141414" alt="Projects" /></a>
 <a href="#-stack"><img src="https://img.shields.io/badge/Stack-141414?style=for-the-badge&labelColor=141414" alt="Stack" /></a>
-<a href="#-activity"><img src="https://img.shields.io/badge/Activity-141414?style=for-the-badge&labelColor=141414" alt="Activity" /></a>
 <a href="#-work-with-me"><img src="https://img.shields.io/badge/Contact-141414?style=for-the-badge&labelColor=141414" alt="Contact" /></a>
-
 <br><br>
-
-<a href="mailto:jrranario1@up.edu.ph"><img src="https://img.shields.io/badge/Start_a_project-FF6FB5?style=for-the-badge&labelColor=FF6FB5&logoColor=0A0A0A" alt="Start a project" /></a>
-&nbsp;
-<a href="https://github.com/jnl-r?tab=repositories"><img src="https://img.shields.io/badge/▸_See_the_work-0A0A0A?style=for-the-badge&labelColor=0A0A0A" alt="See the work" /></a>
-
-<br><br>
-
-<img src="highlights.svg" alt="How I work · 100K+ in sales driven from a single TikTok video · Open for work" width="100%" />
-
+<img src="highlights.svg" alt="100K+ in sales driven from a single TikTok video. Open for work." width="100%" />
 </div>
 
 <br>

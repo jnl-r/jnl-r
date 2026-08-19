@@ -60,9 +60,6 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnl-r&theme=dracula" alt="GitHub stats" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnl-r&theme=dracula" alt="Top languages" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=jnl-r&hide_border=true&background=0A0A0A&stroke=1E1E1E&ring=FF6FB5&fire=F4E04D&currStreakLabel=A8E85C&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Contribution streak" width="60%" />

@@ -1,11 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Janelle Ranario. Pretty software is easy. Effective software is harder. 100K+ in sales driven. Open for work.">
 
   <defs>
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#A8E85C"/>
-      <stop offset="100%" stop-color="#FF6FB5"/>
-    </linearGradient>
-
     <linearGradient id="pinkCard" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%"   stop-color="#FF9ACF"/>
       <stop offset="55%"  stop-color="#FF6FB5"/>
@@ -41,19 +36,15 @@
     </g>
 
     <g font-weight="700" letter-spacing="-1.4">
-      <text x="48" y="110" font-size="34" fill="#FFFFFF" opacity="0">
+      <text x="48" y="110" font-size="34" fill="#FF6FB5" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.2s" fill="freeze"/>
-        <tspan fill="#FF6FB5">Pretty</tspan> software is easy.
+        Pretty software is easy.
       </text>
-      <text x="48" y="150" font-size="34" fill="#FFFFFF" opacity="0">
+      <text x="48" y="150" font-size="34" fill="#A8E85C" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.35s" fill="freeze"/>
-        <tspan fill="#A8E85C">Effective</tspan> software is harder.
+        Effective software is harder.
       </text>
     </g>
-
-    <rect x="48" y="174" width="0" height="3" rx="1.5" fill="url(#rule)">
-      <animate attributeName="width" from="0" to="98" dur="0.6s" begin="0.6s" fill="freeze"/>
-    </rect>
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>

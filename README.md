@@ -81,7 +81,7 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <br><br>
 
-<sub>Cebu, Philippines · Computer Science, University of the Philippines</sub>
+<sub>Cebu, Philippines · BS Computer Science, University of the Philippines Cebu</sub>
 <br><br>
 
 </div>

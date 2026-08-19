@@ -77,10 +77,10 @@ And when I take on a project, I care about the marketing as much as the code. Kn
 
 <div align="center">
 
-<a href="mailto:jrranario1@up.edu.ph"><img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A8E85C?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
-<a href="https://tiktok.com/@YOUR-HANDLE"><img src="https://img.shields.io/badge/TikTok-C9B8F5?style=for-the-badge&logo=tiktok&logoColor=0A0A0A" alt="TikTok" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-F4E04D?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A" alt="Portfolio" /></a>
+<a href="mailto:angeliranario25@gmail.com"><img src="https://img.shields.io/badge/Email-FF6FB5?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
+<a href="https://linkedin.com/in/janelle-angeli-ranario-226401306"><img src="https://img.shields.io/badge/LinkedIn-A8E85C?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
+<a href="https://tiktok.com/@janianella"><img src="https://img.shields.io/badge/TikTok-C9B8F5?style=for-the-badge&logo=tiktok&logoColor=0A0A0A" alt="TikTok" /></a>
+<a href="https://notyetmadehuhu.com"><img src="https://img.shields.io/badge/Portfolio-F4E04D?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A" alt="Portfolio" /></a>
 
 <br><br>
 

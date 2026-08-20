@@ -48,7 +48,7 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,qt,git,github,vercel,figma&theme=dark" alt="Systems and tools" />
+<img src="https://skillicons.dev/icons?i=c,cpp,kotlin,qt,git,github,vercel,figma&theme=dark" alt="Systems and tools" />
 
 </div>
 
@@ -60,7 +60,7 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <h3>Consistency</h3>
 
-<img src="https://streak-stats.demolab.com?user=jnl-r&hide_border=true&background=0A0A0A&stroke=1E1E1E&ring=FF6FB5&fire=F4E04D&currStreakLabel=A8E85C&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Contribution streak" width="60%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=jnl-r&mode=weekly&hide_border=true&background=0A0A0A&stroke=1E1E1E&ring=FF6FB5&fire=F4E04D&currStreakLabel=A8E85C&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Contribution streak" width="60%" />
 
 <h3>Git Activity</h3>
 
@@ -81,7 +81,7 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <br><br>
 
-<sub>Cebu, Philippines · BS Computer Science, University of the Philippines Cebu</sub>
+<sub>BS Computer Science, University of the Philippines Cebu · Cebu, Philippines</sub>
 <br><br>
 
 </div>

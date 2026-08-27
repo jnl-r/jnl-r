@@ -28,7 +28,7 @@
 
   <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
 
-    <!-- ── left · who and what ─────────────────────── -->
+    <!-- ── left  who and what ─────────────────────── -->
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.05s" fill="freeze"/>
       <rect x="48" y="30" width="240" height="30" rx="15" fill="#141414" stroke="#2A2A2A"/>
@@ -48,16 +48,11 @@
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
-      <rect x="48" y="188" width="292" height="28" rx="14" fill="#141414" stroke="#2A2A2A"/>
-      <circle cx="68" cy="202" r="12" fill="#A8E85C" opacity="0.12">
-        <animate attributeName="r" values="7;14;7" dur="2.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.22;0;0.22" dur="2.6s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="68" cy="202" r="4.5" fill="#A8E85C"/>
-      <text x="82" y="207" font-size="12" font-weight="600" fill="#9A9A9A">Open for work · Freelance &amp; internships</text>
+      <rect x="48" y="188" width="3" height="20" fill="#A8E85C"/>
+      <text x="64" y="203" font-size="12" font-weight="600" letter-spacing="0.3" fill="#B5B5B5">Open for work · Freelance &amp; internships</text>
     </g>
 
-    <!-- ── right · the hook ────────────────────────── -->
+    <!-- ── right  the hook ────────────────────────── -->
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.45s" fill="freeze"/>
 

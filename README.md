@@ -64,7 +64,7 @@ I’m also pretty technical myself. I pick up logic very quickly, especially whe
 
 <h3>Git Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jnl-r&bg_color=0A0A0A&color=FFFFFF&line=A8E85C&point=FF6FB5&area=true&area_color=FF6FB5&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph-gamma-dun.vercel.app/graph?username=jnl-r&bg_color=0A0A0A&color=FFFFFF&line=A8E85C&point=FF6FB5&area=true&area_color=FF6FB5&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
